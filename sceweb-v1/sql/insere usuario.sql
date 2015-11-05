@@ -1,0 +1,1 @@
+insert into usuario values ("usuario1","1111")
